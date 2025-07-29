@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+<script>
 
+</script>
+<style>
+
+</style>
+</head>
+<body>
+<fieldset>
+<legend>Curriculo</legend>
+<form action="" method="POST">
+Nome Completo:<input type="text" name="">
+</form>
+</fieldset>
+</body>
+</html>
